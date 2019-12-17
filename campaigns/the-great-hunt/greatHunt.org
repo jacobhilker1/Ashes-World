@@ -137,3 +137,8 @@ THE GREAT HUNT: *-* mode: org *-*
        /-weak hit: +1 progress, but unsure what to do/
    Challenge Die One: [1d10] -> = 5
    Challenge Die Two: [1d10] -> = 2
+
+   /Which way would I need to go? 1-25 = North, 26-50 = South, 51-75 = West,
+   76-100 = East/ 
+
+   [1d100] -> = 67 West
