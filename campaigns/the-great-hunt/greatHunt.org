@@ -3,9 +3,7 @@ THE GREAT HUNT: *-* mode: org *-*
 
 * The Character: 
 
-  Name: Coelwulf
-
-  [[https://cdnw.nickpic.host/rRgHOe.png]]
+  Name: [[https://cdnw.nickpic.host/ssFUXf.png][Coelwulf]]
 
 [1d100] -> = 12 Sociable
 [1d100] -> = 22 Successful
@@ -92,15 +90,26 @@ THE GREAT HUNT: *-* mode: org *-*
 * The World
 ** People
 
-*** Alric
+*** [[https://cdnw.nickpic.host/ssFnxp.png][Alric]]
     - Lord of Kilshire, Coelwulf's husband.
-      
-*** Wulfric
+     [1d100] -> = 62 Honest
+     [1d100] -> = 82 Armored
+     [1d100] -> = 14 Connected
+     [1d100] -> = 02 Attractive
+     [1d100] -> = 01 Stoic
+*** [[https://cdnw.nickpic.host/ssFD4c.png][Wulfric]]
     - Captain of [[Alric][Lord Alric]]'s guard, Coelwulf's brother.
+    [1d100] -> = 87 Religious
+    [1d100] -> = 81 Cooperative
+    [1d100] -> = 47 Remorseful
+    
 
-*** Aethelred
-    - [[Wulfric]]'s husband, member of [[Alric]]'s guard. 
-      
+*** [[https://cdnw.nickpic.host/ssacaW.png][Aethelred]]
+    - [[Wulfric]]'s husband, member of [[Alric]]'s guard.
+    [1d100] -> = 84 Determined
+    [1d100] -> = 37 Cheery
+    [1d100] -> = 85 Loyal
+
 * The Story
 
 ** Session One
@@ -125,6 +134,6 @@ THE GREAT HUNT: *-* mode: org *-*
    will bring it back so the village can survive."*
   
    Swear an Iron Vow: [1d6+1] -> (4) +1 = 5
-       /- +1 progress, but unsure what to do/
+       /-weak hit: +1 progress, but unsure what to do/
    Challenge Die One: [1d10] -> = 5
    Challenge Die Two: [1d10] -> = 2
