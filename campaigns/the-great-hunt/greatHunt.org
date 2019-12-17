@@ -1,0 +1,130 @@
+THE GREAT HUNT: *-* mode: org *-*
+#+TODO: TROUBLESOME DANGEROUS FORMIDABLE EXTREME EPIC | RESOLVED
+
+* The Character: 
+
+  Name: Coelwulf
+
+  [[https://cdnw.nickpic.host/rRgHOe.png]]
+
+[1d100] -> = 12 Sociable
+[1d100] -> = 22 Successful
+[1d100] -> = 80 Armored
+[1d100] -> = 77 Young
+[1d100] -> = 72 Confident
+
+** The Stats
++------+------+-------+------+--------+
+| Edge | Iron | Heart | Wits | Shadow |
++------+------+-------+------+--------+
+|    1 |    2 |     1 |    2 |      1 |
++------+------+-------+------+--------+
+
+** Debilities
+
+*** Conditions [0/4] 
+  
+   - [ ] Wounded
+   - [ ] Shaken
+   - [ ] Unprepared
+   - [ ] Encumbered
+
+*** Banes [0/2]
+
+   - [ ] Maimed
+   - [ ] Corrupted
+
+*** Burdens [0/2]
+
+   - [ ] Cursed
+   - [ ] Tormented
+
+** Tracks
+
+   Health: 5/5
+   Spirit: 5/5
+   Supply: 5/5
+
+** Experience
+
+  - Earned: 0/30
+  - Spent: 0
+
+*** Momentum: +2/10
+
+** Vows
+
+*** EXTREME To hunt down the [[White Stag]] so the village can survive. 0.0/10
+
+*** DANGEROUS Find the men who raided Kilshire and bring them to justice. 0.0/10
+    :PROPERTIES:
+    :ID:       de62232d-c831-49de-9b18-0852b695d74d
+    :END:
+
+
+** Assets
+
+
+*** Horse 
+
+    Name: [1d7] -> = 6 Snowmane
+
+    You and your horse ride as one.
+
+    - [X] Swift: When you /Face Danger/ +edge using your horse\'s speed and grace, or when you /Undertake a Journey/, add +1.  
+
+*** Rider
+
+    If you are with your horse companion...
+
+    - [X] When you /Heal/ your horse companion, or when you /Face Danger/ to calm or encourage it, add +1 and take +1 momentum on a hit. 
+
+*** Skirmisher
+   
+    If you wield a spear...
+
+    - [X] When you /Face Danger/ by holding a foe at bay by using your spear's reach, roll +iron. If you score a hit, you may...
+
+********** Iron: /Strike/ (if you have initiative) or /Clash/ now, and add +1.
+********** Edge: Take +1 momentum.
+
+           
+* The World
+** People
+
+*** Alric
+    - Lord of Kilshire, Coelwulf's husband.
+      
+*** Wulfric
+    - Captain of [[Alric][Lord Alric]]'s guard, Coelwulf's brother.
+
+*** Aethelred
+    - [[Wulfric]]'s husband, member of [[Alric]]'s guard. 
+      
+* The Story
+
+** Session One
+   Snow fell as the young man pulled his cloak around himself. Kilshire lay in
+   flames. /'How many more times do those damned Norsemen have to raid us?'/,
+   the man thought as he shivered. /'And yet the winter is almost here - what
+   are we to do to survive the raids as well?'/
+
+   Alric frowned as he rode towards Coelwulf. So much damage to the village, he
+   thought as he dismounted.
+   
+   The spearman knelt down, keeping his dagger close as the lord approached him.
+   A soft sigh left Coelwulf. *"We can't keep letting these raids happening -
+   they steal our supplies and kill our troops and take our food -"*
+
+   *"I know,"* the young lord replied after his husband caught his breath. *"I
+   have heard rumors, though - a great stag, white as snow, has supposedly been
+   running around in the area. If we managed to bring it back for the people,
+   there would certainly be more than enough food to eat."
+ 
+   *"Then that settles it. I will hunt down this stag before the winter, and I
+   will bring it back so the village can survive."*
+  
+   Swear an Iron Vow: [1d6+1] -> (4) +1 = 5
+       /- +1 progress, but unsure what to do/
+   Challenge Die One: [1d10] -> = 5
+   Challenge Die Two: [1d10] -> = 2
