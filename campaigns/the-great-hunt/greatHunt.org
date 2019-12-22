@@ -98,7 +98,7 @@ THE GREAT HUNT: *-* mode: org *-*
      [1d100] -> = 02 Attractive
      [1d100] -> = 01 Stoic
 *** [[https://cdnw.nickpic.host/ssFD4c.png][Wulfric]]
-    - Captain of [[Byrhtric][Lord Alric]]'s guard, Ceolwulf's brother.
+    - Captain of [[Byrhtric][Lord Byrhtric]]'s guard, Ceolwulf's brother.
     [1d100] -> = 87 Religious
     [1d100] -> = 81 Cooperative
     [1d100] -> = 47 Remorseful
