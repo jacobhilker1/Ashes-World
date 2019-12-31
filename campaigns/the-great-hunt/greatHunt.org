@@ -134,8 +134,11 @@ THE GREAT HUNT: *-* mode: org *-*
    will bring it back so the village can survive."*
   
    Swear an Iron Vow: [1d6+1] -> (4) +1 = 5
+
        /-weak hit: +1 progress, but unsure what to do/
+
    Challenge Die One: [1d10] -> = 5
+
    Challenge Die Two: [1d10] -> = 2
 
    /Which way would I need to go? 1-25 = North, 26-50 = South, 51-75 = West,
