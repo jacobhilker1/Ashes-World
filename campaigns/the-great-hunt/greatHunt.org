@@ -145,3 +145,5 @@ THE GREAT HUNT: *-* mode: org *-*
    76-100 = East/ 
 
    [1d100] -> = 67 West
+
+   
