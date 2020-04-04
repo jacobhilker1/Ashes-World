@@ -1,0 +1,63 @@
+William - 22
+-----
+-----
+YOUR PARENTS
+Thomas - 42
+Isabel - 37 
+-----
+-----
+YOUR SIBLINGS
+3 siblings
+2 brothers
+1 sisters
+-----
+-----
+YOUR SIBLINGS-IN-LAW
+Brother #1 has passed away. He was 18
+Brother was married to a good wife, a lass of 17 years
+They had 6 kids: 4 sons and 2 daughters
+
+Brother #2 has passed away. He was 21
+Brother was married to a good wife, a lass of 17 years
+They had 1 kids: 0 sons and 1 daughters
+
+Sister #1 has passed away. She was 19
+Sister was never married
+
+-----
+-----
+YOUR PATERNAL FAMILY
+-----
+Aunt #1 has passed away. She was 37
+Aunt was married to a good wife, a lady of 47 years
+They had 5 kids: 2 sons and 3 daughters
+
+Aunt #2 is still alive, she is currently 49
+Aunt is married to a good husband, a man of 43 years
+They have 4 kids: 2 sons and 2 daughters
+
+-----
+-----
+YOUR MATERNAL FAMILY
+Aunt #1 is still alive, she is currently 45
+Aunt has not married yet
+
+Aunt #2 has passed away. She was 45
+Aunt was never married
+
+-----
+-----
+YOUR PATERNAL EXTENDED FAMILY
+-----
+-----
+YOUR MATERNAL EXTENDED FAMILY
+Great-Uncle #1 has passed away. He was 47
+Great-Uncle was never married
+
+-----
+Great-Aunt #1 has passed away. She was 50
+Great-Aunt was never married
+
+Great-Aunt #2 has passed away. She was 46
+Great-Aunt was never married
+

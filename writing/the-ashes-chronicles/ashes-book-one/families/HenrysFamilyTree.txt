@@ -1,0 +1,112 @@
+Henry - 21
+-----
+-----
+YOUR PARENTS
+Philip - 42
+Margaret - 46 
+-----
+-----
+YOUR SIBLINGS
+4 siblings
+2 brothers
+2 sisters
+-----
+-----
+YOUR SIBLINGS-IN-LAW
+Brother #1 is still alive, he is currently 19
+Brother has not married yet
+
+Brother #2 is still alive, he is currently 19
+Brother has not married yet
+
+Sister #1 is still alive, she is currently 18
+Sister is married to a good wife, a lass of 17 years
+They have 1 kids: 1 sons and 0 daughters
+
+Sister #2 is still alive, she is currently 18
+Sister is married to a good wife, a lass of 20 years
+They have 2 kids: 1 sons and 1 daughters
+
+-----
+-----
+YOUR PATERNAL FAMILY
+Uncle #1 has passed away. He was 40
+Uncle was married to a good husband, a man of 55 years
+They had 4 kids: 3 sons and 1 daughters
+
+Uncle #2 is still alive, he is currently 38
+Uncle is married to a good wife, a lady of 39 years
+They have 3 kids: 2 sons and 1 daughters
+
+Uncle #3 is still alive, he is currently 50
+Uncle is married to a good wife, a lady of 49 years
+They have 6 kids: 3 sons and 3 daughters
+
+-----
+Aunt #1 has passed away. She was 36
+Aunt was never married
+
+Aunt #2 is still alive, she is currently 54
+Aunt has not married yet
+
+-----
+-----
+YOUR MATERNAL FAMILY
+Uncle #1 has passed away. He was 49
+Uncle was never married
+
+Uncle #2 has passed away. He was 50
+Uncle was married to a good husband, a man of 36 years
+They had 2 kids: 0 sons and 2 daughters
+
+Uncle #3 is still alive, he is currently 47
+Uncle is married to a good husband, a man of 46 years
+They have 2 kids: 1 sons and 1 daughters
+
+Uncle #4 has passed away. He was 38
+Uncle was married to a good wife, a lady of 39 years
+They had 1 kids: 0 sons and 1 daughters
+
+Uncle #5 has passed away. He was 55
+Uncle was married to a good husband, a man of 41 years
+They had 1 kids: 0 sons and 1 daughters
+
+Aunt #1 has passed away. She was 52
+Aunt was married to a good husband, a man of 43 years
+They had 2 kids: 0 sons and 2 daughters
+
+-----
+-----
+YOUR PATERNAL EXTENDED FAMILY
+Great-Uncle #1 has passed away. He was 63
+Great-Uncle was married to a good wife, a lady of 52 years
+They had 1 kids: 1 sons and 0 daughters
+
+Great-Uncle #2 has passed away. He was 49
+Great-Uncle was married to a good wife, a lady of 48 years
+They had 6 kids: 2 sons and 4 daughters
+
+-----
+-----
+YOUR MATERNAL EXTENDED FAMILY
+Great-Uncle #1 has passed away. He was 54
+Great-Uncle was married to a good husband, a man of 60 years
+They had 5 kids: 2 sons and 3 daughters
+
+Great-Uncle #2 has passed away. He was 52
+Great-Uncle was never married
+
+-----
+Great-Aunt #1 has passed away. She was 64
+Great-Aunt was never married
+
+Great-Aunt #2 has passed away. She was 53
+Great-Aunt was never married
+
+Great-Aunt #3 has passed away. She was 59
+Great-Aunt was never married
+
+Great-Aunt #4 has passed away. She was 65
+Great-Aunt was married to a good husband, a man of 61 years
+They had 6 kids: 3 sons and 3 daughters
+

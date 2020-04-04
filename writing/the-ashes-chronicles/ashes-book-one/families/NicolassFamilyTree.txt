@@ -1,0 +1,100 @@
+Nicolas - 20
+-----
+-----
+YOUR PARENTS
+John - 52
+Alice - 49 
+-----
+-----
+YOUR SIBLINGS
+2 siblings
+2 brothers
+0 sisters
+-----
+-----
+YOUR SIBLINGS-IN-LAW
+Brother #1 is still alive, he is currently 18
+Brother is married to a good wife, a lass of 18 years
+They have 1 kids: 1 sons and 0 daughters
+
+Brother #2 is still alive, he is currently 22
+Brother has not married yet
+
+-----
+-----
+YOUR PATERNAL FAMILY
+Uncle #1 is still alive, he is currently 47
+Uncle has not married yet
+
+Uncle #2 is still alive, he is currently 42
+Uncle is married to a good wife, a lady of 46 years
+They have 4 kids: 2 sons and 2 daughters
+
+Uncle #3 has passed away. He was 40
+Uncle was married to a good wife, a lady of 41 years
+They had 6 kids: 3 sons and 3 daughters
+
+-----
+Aunt #1 is still alive, she is currently 48
+Aunt has not married yet
+
+Aunt #2 has passed away. She was 43
+Aunt was married to a good wife, a lady of 37 years
+They had 1 kids: 1 sons and 0 daughters
+
+-----
+-----
+YOUR MATERNAL FAMILY
+Uncle #1 is still alive, he is currently 45
+Uncle has not married yet
+
+Uncle #2 has passed away. He was 36
+Uncle was never married
+
+Uncle #3 is still alive, he is currently 48
+Uncle is married to a good wife, a lady of 37 years
+They have 2 kids: 2 sons and 0 daughters
+
+Aunt #1 has passed away. She was 38
+Aunt was married to a good wife, a lady of 48 years
+They had 2 kids: 0 sons and 2 daughters
+
+Aunt #2 has passed away. She was 52
+Aunt was married to a good wife, a lady of 52 years
+They had 3 kids: 2 sons and 1 daughters
+
+Aunt #3 has passed away. She was 49
+Aunt was married to a good husband, a man of 49 years
+They had 5 kids: 2 sons and 3 daughters
+
+-----
+-----
+YOUR PATERNAL EXTENDED FAMILY
+Great-Uncle #1 has passed away. He was 65
+Great-Uncle was married to a good wife, a lady of 47 years
+They had 2 kids: 1 sons and 1 daughters
+
+Great-Uncle #2 has passed away. He was 60
+Great-Uncle was married to a good wife, a lady of 49 years
+They had 3 kids: 2 sons and 1 daughters
+
+-----
+-----
+YOUR MATERNAL EXTENDED FAMILY
+Great-Uncle #1 has passed away. He was 64
+Great-Uncle was never married
+
+Great-Uncle #2 has passed away. He was 50
+Great-Uncle was never married
+
+Great-Uncle #3 has passed away. He was 60
+Great-Uncle was married to a good husband, a man of 54 years
+They had 3 kids: 1 sons and 2 daughters
+
+-----
+Great-Aunt #1 has passed away. She was 62
+Great-Aunt was never married
+
+Great-Aunt #2 has passed away. She was 51
+Great-Aunt was never married
+

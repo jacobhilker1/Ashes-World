@@ -1,0 +1,86 @@
+Simon - 19
+-----
+-----
+YOUR PARENTS
+Adam - 49
+Emma - 42 
+-----
+-----
+YOUR SIBLINGS
+6 siblings
+3 brothers
+3 sisters
+-----
+-----
+YOUR SIBLINGS-IN-LAW
+Brother #1 is still alive, he is currently 21
+Brother has not married yet
+
+Brother #2 is still alive, he is currently 17
+Brother is married to a good husband, a lad of 21 years
+They have 4 kids: 2 sons and 2 daughters
+
+Brother #3 has passed away. He was 19
+Brother was never married
+
+Sister #1 has passed away. She was 17
+Sister was never married
+
+Sister #2 has passed away. She was 16
+Sister was married to a good husband, a lad of 18 years
+They had 3 kids: 2 sons and 1 daughters
+
+Sister #3 has passed away. She was 18
+Sister was married to a good husband, a lad of 17 years
+They had 5 kids: 4 sons and 1 daughters
+
+-----
+-----
+YOUR PATERNAL FAMILY
+Uncle #1 has passed away. He was 48
+Uncle was never married
+
+Uncle #2 has passed away. He was 45
+Uncle was never married
+
+-----
+Aunt #1 is still alive, she is currently 47
+Aunt has not married yet
+
+Aunt #2 is still alive, she is currently 38
+Aunt is married to a good wife, a lady of 41 years
+They have 5 kids: 3 sons and 2 daughters
+
+-----
+-----
+YOUR MATERNAL FAMILY
+Uncle #1 is still alive, he is currently 55
+Uncle has not married yet
+
+Aunt #1 has passed away. She was 40
+Aunt was never married
+
+Aunt #2 has passed away. She was 47
+Aunt was married to a good wife, a lady of 52 years
+They had 3 kids: 2 sons and 1 daughters
+
+-----
+-----
+YOUR PATERNAL EXTENDED FAMILY
+Great-Uncle #1 has passed away. He was 46
+Great-Uncle was married to a good wife, a lady of 50 years
+They had 1 kids: 1 sons and 0 daughters
+
+Great-Uncle #2 has passed away. He was 52
+Great-Uncle was never married
+
+-----
+-----
+YOUR MATERNAL EXTENDED FAMILY
+Great-Uncle #1 has passed away. He was 55
+Great-Uncle was never married
+
+-----
+Great-Aunt #1 has passed away. She was 55
+Great-Aunt was never married
+
