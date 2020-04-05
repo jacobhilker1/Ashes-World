@@ -1,0 +1,90 @@
+Stephen - 17
+-----
+-----
+YOUR PARENTS
+Adam - 40
+Alice - 49 
+-----
+-----
+YOUR SIBLINGS
+4 siblings
+1 brothers
+3 sisters
+-----
+-----
+YOUR SIBLINGS-IN-LAW
+Brother #1 is still alive, he is currently 20
+Brother has not married yet
+
+Sister #1 has passed away. She was 16
+Sister was never married
+
+Sister #2 has passed away. She was 15
+Sister was never married
+
+Sister #3 has passed away. She was 16
+Sister was never married
+
+-----
+-----
+YOUR PATERNAL FAMILY
+Uncle #1 is still alive, he is currently 47
+Uncle has not married yet
+
+Uncle #2 is still alive, he is currently 41
+Uncle is married to a good husband, a man of 48 years
+They have 1 kids: 0 sons and 1 daughters
+
+-----
+Aunt #1 has passed away. She was 44
+Aunt was never married
+
+Aunt #2 is still alive, she is currently 36
+Aunt is married to a good husband, a man of 37 years
+They have 4 kids: 3 sons and 1 daughters
+
+Aunt #3 has passed away. She was 37
+Aunt was married to a good wife, a lady of 36 years
+They had 2 kids: 0 sons and 2 daughters
+
+-----
+-----
+YOUR MATERNAL FAMILY
+Uncle #1 has passed away. He was 48
+Uncle was married to a good husband, a man of 54 years
+They had 3 kids: 2 sons and 1 daughters
+
+Uncle #2 is still alive, he is currently 45
+Uncle has not married yet
+
+Uncle #3 is still alive, he is currently 45
+Uncle is married to a good husband, a man of 40 years
+They have 6 kids: 3 sons and 3 daughters
+
+Aunt #1 has passed away. She was 48
+Aunt was never married
+
+Aunt #2 is still alive, she is currently 41
+Aunt is married to a good wife, a lady of 53 years
+They have 2 kids: 2 sons and 0 daughters
+
+-----
+-----
+YOUR PATERNAL EXTENDED FAMILY
+Great-Uncle #1 has passed away. He was 46
+Great-Uncle was never married
+
+-----
+-----
+YOUR MATERNAL EXTENDED FAMILY
+-----
+Great-Aunt #1 has passed away. She was 61
+Great-Aunt was married to a good wife, a lady of 52 years
+They had 1 kids: 0 sons and 1 daughters
+
+Great-Aunt #2 has passed away. She was 55
+Great-Aunt was never married
+
+Great-Aunt #3 has passed away. She was 57
+Great-Aunt was never married
+
