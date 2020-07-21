@@ -2,6 +2,7 @@
 #+SUBTITLE: Book One of The Ashes Chronicles
 #+author: Jacob Hilker
 #+LaTeX_CLASS: novel
+#+OPTIONS: toc:nil
 * Prologue
 A sickening cough could be heard from the chambers of the old baron. One that was raw, and the air thick with the scent of illness and death. Inside, vassal knelt by lord's side, as Percy squeezed the hand of his old friend. The torches flickered, the small trails of smoke wisping into the air.
 
