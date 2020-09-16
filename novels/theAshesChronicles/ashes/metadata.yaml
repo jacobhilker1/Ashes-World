@@ -1,0 +1,130 @@
+---
+# ------------------------------------------------------------------------
+# Metadata
+# ------------------------------------------------------------------------
+title: 
+
+subtitle: 
+
+author: 
+
+publisher: 
+
+language: en-US
+
+date: 
+
+identifier: 
+  - scheme:
+  - text:
+
+subject: 
+
+description: 
+
+
+# ------------------------------------------------------------------------
+# Build Informations
+# ------------------------------------------------------------------------
+# The path to kindlegen
+kindlegen-path: 
+
+# A list of the formats that should be created byruning the build script
+output-formats: 
+  - epub
+  - pdf
+
+
+# ------------------------------------------------------------------------
+# Universal Options
+# ------------------------------------------------------------------------
+# a list of the files that constitute the frontmatter
+frontmatter: 
+
+# a list of the files that constitute the backmatter
+backmatter: 
+
+# should the chapters be auto-numbered?
+number-sections: false
+
+
+# ------------------------------------------------------------------------
+# Epub Options
+# ------------------------------------------------------------------------
+# the path to the cover image
+cover-image: 
+
+# frontmatter heading (only needed if your frontmatter starts without a
+# header, since pandoc always creates a header otherwise)
+frontmatter-heading: Dedication
+
+epub-stylesheet-options: 
+  heading-alignment: center
+
+
+# ------------------------------------------------------------------------
+# PDF Options
+# ------------------------------------------------------------------------
+# the trim size of the book that should be created (you can use: cm, in, mm or
+# an existing format: legal, letter, executive and the ISO formats A, B ,C, D)
+# Common Paperback sizes: 6in:9in, 5.5in:8.5in, 5.25in:8in, 5in:8in
+paper: 5.25in:8in
+
+# the binding correction (this deepends on the number of pages and on the kind
+# of binding)
+BCOR: 10mm
+
+# change to "true", if chapter headings should be centered
+center-headings: false
+
+# the basic fontsize of the book (the size used for paragraphs)
+fontsize: 10
+
+# should there be a toc?
+pdf-toc: true
+
+# how deep should the toc be?
+pdf-toc-depth: 3
+
+
+# ------------------------------------------------------------------------
+# Filter Options
+# ------------------------------------------------------------------------
+# default, text or fleuron
+new-scene-style: default
+
+# text used for a scene change, if the text option is used. If you use
+# symbols, you have to enclose the entry with quotation marks.
+new-scene-text: "* * *"
+
+# path to the image used for a scene change, if fleuron is used as the option
+new-scene-image: 
+
+# bottom, top or one-line
+poem-style: bottom
+
+# bottom, top or one-line
+quote-style: bottom
+
+# up to which header level the image should be included, if the "header-
+# image.py" filter is used
+heading-image-level: 2
+
+# path to the image used for a scene change, if if the "header-image.py"
+# filter is used
+heading-image: 
+
+
+# ------------------------------------------------------------------------
+# File Data
+# ------------------------------------------------------------------------
+# Instead of automatically sorting the chapters by their filenames, you can
+# here manually sort the files
+chapter-list: 
+
+# exclude some files if automatically creating the book from files
+exclude-files: 
+  - readme.md
+
+
+...
