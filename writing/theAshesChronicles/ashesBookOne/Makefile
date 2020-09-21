@@ -1,5 +1,5 @@
 NAME = novel
-PANDOC = pandoc -s --number-sections
+PANDOC = pandoc -s 
 
 PDF = $(NAME).pdf
 
@@ -7,7 +7,8 @@ SRC = metadata.yml \
       after_main_title.md \
       dedication.md \
       before_chapters.md \
-      $(sort $(wildcard chapters/*.md))
+			chapters/prologue.md \
+			$(shell ls chapters/*.md | grep -E "[0-9]+.md" | sort)
 
 all: $(PDF)
 
@@ -17,5 +18,6 @@ $(PDF): $(SRC)
 		-V geometry:paperheight=18cm \
 		-V documentclass=memoir \
 		-V header-includes="\\usepackage{caption}\\captionsetup{labelformat=empty}\\setstocksize{11cm}{18cm}" \
-		$(SRC) -o $@
+		$(SRC) -o $@ --pdf-engine=xelatex
+
 
