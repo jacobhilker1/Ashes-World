@@ -1,7 +1,14 @@
 ---
-title: Ashes
+title: |
+  ![](pics/cover.jpg)  
+  Ashes  
+  \newpage
 subtitle: Book One of The Ashes Chronicles
 author: Jacob Hilker 
+geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
 documentclass: report
+titlepage: true
+top-level-division: chapter
 mainfont: Alegreya-Regular
+pdf-engine: xelatex
 ...
