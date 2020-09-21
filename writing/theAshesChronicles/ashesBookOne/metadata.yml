@@ -4,4 +4,7 @@ subtitle: Book One of The Ashes Chronicles
 author: Jacob Hilker
 mainfont: Alegreya-Regular
 documentclass: memoir
+classoption:
+  - twosides
+  - symmetric
 ...
