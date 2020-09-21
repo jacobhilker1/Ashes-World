@@ -7,4 +7,5 @@ documentclass: memoir
 classoption:
   - twosides
   - symmetric
+geometry: a4paper
 ...
