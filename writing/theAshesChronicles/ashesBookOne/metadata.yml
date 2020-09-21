@@ -3,6 +3,4 @@ title: Ashes
 subtitle: Book One of The Ashes Chronicles
 author: Jacob Hilker
 mainfont: Alegreya-Regular
-header-includes: |
-  \usepackage{graphics}
 ...
