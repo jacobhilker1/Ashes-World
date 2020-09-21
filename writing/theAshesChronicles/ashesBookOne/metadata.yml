@@ -1,13 +1,5 @@
 ---
-title: |
-  ![](pics/cover.jpg)  
-  \newpage
-  Ashes  
-subtitle: Book One of The Ashes Chronicles
-author: Jacob Hilker 
-geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
-documentclass: report
-top-level-division: chapter
-mainfont: Alegreya-Regular
-pdf-engine: xelatex
+title: Un pétale dans la braise
+author: Nadège Gros
+lang: fr-pc
 ...
