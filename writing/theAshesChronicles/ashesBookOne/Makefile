@@ -13,8 +13,7 @@ SRC = metadata.yml \
 
 all: $(PDF)
 
-$(PDF): $(shell rm novel.pdf) \
-	$(SRC)
+$(PDF): $(SRC)
 	$(PANDOC) \
 		-V geometry:paperwidth=11cm \
 		-V geometry:paperheight=18cm \
