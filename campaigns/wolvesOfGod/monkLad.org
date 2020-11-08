@@ -1,0 +1,64 @@
+* The Character
+** Leofric of Wessex
+    Ambition: Found a minster under his name.
+*** Stats
+**** Stats
+ | Stat | Val | Bonus |
+ |------+-----+-------|
+ | STR  |   9 |     0 |
+ | DEX  |   9 |     0 |
+ | CON  |  11 |     0 |
+ | INT  |   8 |     0 |
+ | WIS  |  10 |     0 |
+ | CHA  |  12 |     0 |
+
+**** AC: 15
+**** HP: 6
+**** Saves
+*** Class: Saint
+**** Class Skills 
+     * Pray-0
+     * Holiness Score: 0
+     * Miracles
+           1. Pray for Clean Healing
+           2. Spare the Fallen Friend
+**** Glories and Shames
+***** Glories
+      1. Get Glory if you carry out a mighty deed for God or a worthy adventure for His glory, or if you aid another Christian in such a work.
+      2. Get Glory if you convert a powerful heathen to the true faith, or make a sinning lord or magnate repent openly of his crimes and make amends.
+      3. Get Glory if you risk danger to help the weak, or spend at least a
+ third of your wealth in successfully upholding the desperate or aiding those who have no power to repay you or profit you in fit measure to your labors.
+***** Shames
+      1. Suffer Shame if you strike a human being with intent to harm them.
+      2. Suffer Shame if you lie, steal, disobey your clerical superior, honor false gods, dishonor the Sabbath, bear weapons, wear war-harness, or otherwise knowingly break the laws of the Church.
+      3. Suffer Shame if you willingly wield a heathen magical object or choose to receive a Galdorman’s spells, for you must shun the use of all magic. Saints suffer especially from Shameful acts, for they always are inflicted
+*** Background: Eorlishkind
+    * Free Skill: Spear-0
+    * Choice Skill: Ride-0
+**** *Growths and Learnings*
+***** Growths
+      * [1d6] -> = 4 - +2 Mental,  Beginning 3 G/L 
+      * [1d6] -> = 1 - +1 Any Stat, Beginning 3 GL 
+      * [1d6] -> = 3 - +2 Physical, Beginning 3 G/L
+ 
+***** Learnings
+*** Wyrds
+**** Noble Wyrds 
+     1. Hearts are lifted by my words.
+     2. God loves my piety.
+ 
+**** Ignoble Wyrds
+     1. I fear pain and suffering.
+*** Skills
+ | Skill | Val |
+*** Foci
+    * Heart Shall Be Bolder
+          1. Gain Lead as a bonus skill. You are immune to any effect that would induce fear in you. Foes who are forced to make a Morale check by you or your allies do so at a -1 penalty, which does not stack if multiple heroes have this Focus. (initial choice)
+*** Gear
+    * Carved wooden crucifix 
+    * small book of pious writings
+    * three days of hard bread
+    * medicine bag of herbs and bandages
+    * a jar of wine for Holy Communion
+
+
