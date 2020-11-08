@@ -15,6 +15,9 @@
 **** AC: 15
 **** HP: 6
 **** Saves
+     * Physical:
+     * Mental: 
+     * Evasion: 
 *** Class: Saint
 **** Class Skills 
      * Pray-0
@@ -50,7 +53,29 @@
 **** Ignoble Wyrds
      1. I fear pain and suffering.
 *** Skills
- | Skill | Val |
+ | Skill   | Val |
+ |---------+-----|
+ | Connect |  -1 |
+ | Craft   |  -1 |
+ | Exert   |  -1 |
+ | Gift    |  -1 |
+ | Heal    |  -1 |
+ | Hunt    |  -1 |
+ | Ken     |  -1 |
+ | Lead    |  -1 |
+ | Magic   |  -1 |
+ | Notice  |  -1 |
+ | Perform |  -1 |
+ | Pray    |   0 |
+ | Reeve   |  -1 |
+ | Ride    |   0 |
+ | Romance |  -1 |
+ | Shoot   |  -1 |
+ | Smite   |  -1 |
+ | Sneak   |  -1 |
+ | Spear   |   0 |
+ | Talk    |  -1 |
+ | Toil    |  -1 |
 *** Foci
     * Heart Shall Be Bolder
           1. Gain Lead as a bonus skill. You are immune to any effect that would induce fear in you. Foes who are forced to make a Morale check by you or your allies do so at a -1 penalty, which does not stack if multiple heroes have this Focus. (initial choice)
