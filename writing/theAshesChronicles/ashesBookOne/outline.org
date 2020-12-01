@@ -1,0 +1,26 @@
+** Major Characters
+   :PROPERTIES:
+   :CUSTOM_ID: major-characters
+   :END:
+
+- Henry The Just
+
+** Minor Characters
+   :PROPERTIES:
+   :CUSTOM_ID: minor-characters
+   :END:
+** Act One Plot Points
+   :PROPERTIES:
+   :CUSTOM_ID: act-one-plot-points
+   :END:
+
+- Baron Coelhelm dies
+
+** Act Two Plot Points
+   :PROPERTIES:
+   :CUSTOM_ID: act-two-plot-points
+   :END:
+** Act Three Plot Points
+   :PROPERTIES:
+   :CUSTOM_ID: act-three-plot-points
+   :END:
