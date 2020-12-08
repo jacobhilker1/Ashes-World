@@ -1,15 +1,33 @@
-* Major Characters
- :PROPERTIES:
+* Main Cast
+** Major Characters
+   :PROPERTIES:
    :CUSTOM_ID: major-characters
    :END:
-** Henry "The Just"
-** Nicolas "The Lion"
-** Stephen Tilly "the Pious"
-** Simon Hayward "the Steadfast"
-** Heahwald
-** Godric
+*** Henry of Ashford
+   - "The Just"
+*** Nicolas of King's Gate
+    - "The Lion"
+*** Stephen Tilly 
+    - "The Pious"
+*** Simon Hayward 
+    - "The Steadfast"
+*** Heahwald
+*** Godric
    
-* Minor Characters
+** Minor Characters
    :PROPERTIES:
    :CUSTOM_ID: minor-characters
    :END:
+*** Leofric 
+*** Percy
+*** Ceolwulf
+*** Aethelwulf
+*** Jerome
+*** Léofmund
+    - "the Valiant"
+*** Peter
+*** Aelfric
+    - "the White"
+*** Adam
+*** Eomund
+    - "the Fair"
