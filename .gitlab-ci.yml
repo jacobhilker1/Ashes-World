@@ -1,10 +1,26 @@
-image: publysher/hugo
+# This file is a template, and might need editing before it works on your project.
+---
+# All available Hugo versions are listed here:
+# https://gitlab.com/pages/hugo/container_registry
+image: registry.gitlab.com/pages/hugo:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+test:
+  script:
+    - hugo -s=site/
+  except:
+    - master
 
 pages:
   script:
-  - hugo -s=site/ -d ../public
+    - hugo -s=site/
+
   artifacts:
     paths:
-    - public
+      - public
   only:
-  - master
+    - master
+
+
