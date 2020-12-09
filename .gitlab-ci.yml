@@ -1,0 +1,10 @@
+image: publysher/hugo
+
+pages:
+  script:
+  - hugo -s=site/ -d ../public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
