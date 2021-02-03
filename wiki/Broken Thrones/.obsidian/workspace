@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "88ab473de14ca107",
+    "type": "split",
+    "children": [
+      {
+        "id": "8773e360d358b26e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Outlines/The Ashes Chronicles/Ashes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac503235b5f31941",
+    "type": "split",
+    "children": [
+      {
+        "id": "21a2bfb5b496f525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dacd50d174e7858",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c4dbebd02a9332d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0725413ea54b0f96",
+    "type": "split",
+    "children": [
+      {
+        "id": "234d5e659927712a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a46de1d2342358c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Outlines/The Ashes Chronicles/Ashes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9056ea8c961561f9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7deb0ea02cdfa40d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Outlines/The Ashes Chronicles/Ashes.md"
+              }
+            }
+          },
+          {
+            "id": "d2b8c3b37c9b7cf7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Outlines/The Ashes Chronicles/Ashes.md",
+    "Outlines/The Ashes Chronicles/Gates of Winter.md",
+    "Outlines/The Ashes Chronicles/Wolves of Sorrow.md",
+    "Untitled.md",
+    "Day Planners/Day Planner-20210203.md"
+  ]
+}
